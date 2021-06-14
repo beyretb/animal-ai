@@ -1,0 +1,1 @@
+This folder was intentionally left empty. Download your platform specific Animal-AI environment [from this address](https://drive.google.com/drive/folders/1CkqmZ_rxsvPa8aTS3qhllTvb9uDCjRvg?usp=sharing) and place it here.
